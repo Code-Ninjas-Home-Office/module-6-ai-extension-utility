@@ -1,7 +1,7 @@
 /**
  * Utility blocks for sprites
  */
-//% weight=99 color="#4B7BEC" icon="🛠"
+//% weight=99 color="#4B7BEC" icon="\uf0c7"
 //% block="Utility"
 //% groups='["Sprite", "General"]'
 namespace spriteutils {
